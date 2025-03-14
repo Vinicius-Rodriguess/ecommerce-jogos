@@ -50,8 +50,8 @@ Este projeto é a API back-end para um sistema de e-commerce. Desenvolvido com *
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Vinicius-Rodriguess/ecommerce-backend.git
-   cd ecommerce-backend
+   git clone https://github.com/Vinicius-Rodriguess/ecommerce-jogos.git
+   cd ecommerce-jogos
    ```
 
 2. Instale as dependências:
@@ -102,5 +102,5 @@ Este projeto é a API back-end para um sistema de e-commerce. Desenvolvido com *
 
 **Vinicius Rodrigues**
 
-- GitHub: [SeuUsuario](https://github.com/Vinicius-Rodriguess)
+- GitHub: [Vinicius-Rodriguess](https://github.com/Vinicius-Rodriguess)
 - Email: rodrigues.vini.2004@gmail.com
